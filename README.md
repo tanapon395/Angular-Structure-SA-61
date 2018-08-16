@@ -1,3 +1,7 @@
+# เริ่มต้นใช้งาน
+
+ใช้คำสั่ง npm install
+
 # Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
